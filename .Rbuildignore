@@ -2,3 +2,6 @@
 ^LICENSE\.md$
 ^fusen\.github\.0\.6\.0\.9003\.Rproj$
 ^\.Rproj\.user$
+^README\.Rmd$
+^\.github$
+^codecov\.yml$
